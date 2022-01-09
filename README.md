@@ -12,7 +12,7 @@ This tools cames to overpass this limitation:
 
 ![SSO Application Configuration Web Tool](media/01-SSO-Application-Configuration-web-Tool-BizTalk-Server.png)
 
-![SSO Application Configuration Web Tool](media/01-SSO-Application-Configuration-web-Tool-BizTalk-Server.png)
+![SSO Application Configuration Web Tool](media/02-SSO-Application-Configuration-web-Tool-BizTalk-Server.png)
 
 THIS TOOL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
