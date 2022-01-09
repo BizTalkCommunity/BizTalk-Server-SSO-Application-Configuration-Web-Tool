@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO.Application.Configuration.Web", "SSO.Application.Configuration.Web\SSO.Application.Configuration.Web.csproj", "{52CB1542-59C5-4B67-94F7-1814C7C913BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52CB1542-59C5-4B67-94F7-1814C7C913BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CB1542-59C5-4B67-94F7-1814C7C913BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CB1542-59C5-4B67-94F7-1814C7C913BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CB1542-59C5-4B67-94F7-1814C7C913BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BED2E2C-CA64-4083-BB0C-F9E106A6DA72}
+	EndGlobalSection
+EndGlobal
